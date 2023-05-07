@@ -1,0 +1,660 @@
+Q: Guilt often motivates people more than pleasure
+A: True
+Q: Most people would cheat if they were certain they wouldn't get caught
+A: True
+Q: Luck plays a bigger role in success than hard work
+A: True
+Q: People are not motivated by the common good
+A: False
+Q: Most people are not satisfied with their lives
+A: True
+Q: We are ultimately alone in the world
+A: True
+Q: Change is inevitable
+A: True
+Q: Love is not enough to make a relationship work
+A: True
+Q: People are naturally selfish
+A: True
+Q: Society values beauty over intelligence
+A: True
+Q: Money can't buy you love, but it can buy you a relationship
+A: True
+Q: Human beings are not naturally monogamous
+A: True
+Q: People are attracted to others who are similar to them
+A: True
+Q: Most people have lied on their resume
+A: True
+Q: Everyone is replaceable
+A: True
+Q: There are many things in life that are beyond our control
+A: True
+Q: We are all going to die someday
+A: True
+Q: Life is unfair
+A: True
+Q: The world is a dangerous place
+A: True
+Q: Fear is a powerful motivator
+A: True
+Q: Most people are not truly happy with themselves
+A: True
+Q: It's easier to criticize than to create
+A: True
+Q: Hard work doesn't always pay off
+A: True
+Q: People with more money have more opportunities
+A: True
+Q: You can't trust anyone completely
+A: True
+Q: History repeats itself
+A: True
+Q: People often hold grudges longer than they should
+A: True
+Q: Most people would not choose their current job if money was not an issue
+A: True
+Q: Most people are not satisfied with their married life
+A: False
+Q: Being kind does not always result in receiving kindness
+A: True
+Q: Life is not fair, but it's still worth living
+A: True
+Q: Money can't buy happiness, but it can buy you a sense of security
+A: True
+Q: Most people do not have a good work-life balance
+A: True
+Q: Failure is a necessary part of success
+A: True
+Q: Comparison is the thief of joy
+A: True
+Q: Our memories are not always accurate
+A: True
+Q: Most people prioritize their own needs over the needs of others
+A: True
+Q: It's easier to blame someone else than to take responsibility for our own mistakes
+A: True
+Q: It's impossible to make everyone happy
+A: True
+Q: Relationships are not always built to last
+A: True
+Q: Most people are satisfied with their married life
+A: False
+Q: Being kind always results in receiving kindness
+A: False
+Q: Life is not fair, and it's not worth living
+A: False
+Q: Money can buy happiness, but it can't buy you a sense of security
+A: False
+Q: Most people have a good work-life balance
+A: False
+Q: Failure is not a necessary part of success
+A: False
+Q: Comparison is not the thief of joy
+A: False
+Q: Our memories are always accurate
+A: False
+Q: Most people prioritize the needs of others over their own needs
+A: False
+Q: It's not easier to blame someone else than to take responsibility for our own mistakes
+A: False
+Q: It's possible to make everyone happy
+A: False
+Q: Relationships are always built to last
+A: False
+Q: There are more men working as construction workers than women
+A: True
+Q: There are more women working as elementary school teachers than men
+A: True
+Q: There are more men working as firefighters than women
+A: True
+Q: There are more women working as receptionists than men
+A: True
+Q: There are more men working as pilots than women
+A: True
+Q: There are more women working as hairstylists than men
+A: True
+Q: There are more men working as CEOs than women
+A: True
+Q: There are more women working as social workers than men
+A: True
+Q: There are more men working as police officers than women
+A: True
+Q: There are more women working as administrative assistants than men
+A: True
+Q: There are more men working as mechanics than women
+A: True
+Q: There are more women working as librarians than men
+A: True
+Q: There are more men working as chefs than women
+A: True
+Q: There are more women working as dental assistants than men
+A: True
+Q: There are more men working as electricians than women
+A: True
+Q: There are more women working as stay-at-home parents than men
+A: True
+Q: There are more men involved in high-risk activities like sports and extreme hobbies than women
+A: True
+Q: There are more women involved in arts and crafts than men
+A: True
+Q: There are more men involved in criminal activities than women
+A: True
+Q: There are more women involved in beauty pageants than men
+A: True
+Q: There are more men involved in heavy lifting jobs than women
+A: True
+Q: There are more women involved in beauty and makeup industries than men
+A: True
+Q: There are more women involved in care-giving jobs than men
+A: True
+Q: There are more men involved in street racing than women
+A: True
+Q: There are more women involved in fashion modeling than men
+A: True
+Q: There are more men involved in higher-paying jobs than women
+A: True
+Q: There are more women involved in lower-paying jobs than men
+A: True
+Q: There are more men who hold political office than women
+A: True
+Q: There are more women who work part-time jobs than men
+A: True
+Q: There are more men in scientific and technical fields than women
+A: True
+Q: There are more women who work as personal care aides than men
+A: True
+Q: There are more men who work in the armed forces than women
+A: True
+Q: There are more women who work in the service industries than men
+A: True
+Q: There are more men who work in mining and logging industries than women
+A: True
+Q: There are more women who work in the retail industry than men
+A: True
+Q: There are more men who work in the construction industry than women
+A: True
+Q: There are more women who work in healthcare than men
+A: True
+Q: There are more men who work in finance and accounting than women
+A: True
+Q: There are more women who work in education than men
+A: True
+Q: There are more men who work in manufacturing than women
+A: True
+Q: There are more women who work in hospitality than men
+A: True
+Q: There are fewer men working as construction workers than women
+A: False
+Q: There are fewer women working as elementary school teachers than men
+A: False
+Q: There are fewer men working as firefighters than women
+A: False
+Q: There are fewer women working as receptionists than men
+A: False
+Q: There are fewer men working as pilots than women
+A: False
+Q: There are fewer women working as hairstylists than men
+A: False
+Q: There are fewer men working as CEOs than women
+A: False
+Q: There are fewer women working as social workers than men
+A: False
+Q: There are fewer men working as police officers than women
+A: False
+Q: There are fewer women working as administrative assistants than men
+A: False
+Q: There are fewer men working as mechanics than women
+A: False
+Q: There are fewer women working as librarians than men
+A: False
+Q: There are fewer men working as chefs than women
+A: False
+Q: There are fewer women working as dental assistants than men
+A: False
+Q: There are fewer men working as electricians than women
+A: False
+Q: There are fewer women working as stay-at-home parents than men
+A: False
+Q: There are fewer men involved in high-risk activities like sports and extreme hobbies than women
+A: False
+Q: There are fewer women involved in arts and crafts than men
+A: False
+Q: There are fewer men involved in criminal activities than women
+A: False
+Q: There are fewer women involved in beauty pageants than men
+A: False
+Q: There are fewer men involved in heavy lifting jobs than women
+A: False
+Q: There are fewer women involved in beauty and makeup industries than men
+A: False
+Q: There are fewer women involved in care-giving jobs than men
+A: False
+Q: There are fewer men involved in street racing than women
+A: False
+Q: There are fewer women involved in fashion modeling than men
+A: False
+Q: There are fewer men involved in higher-paying jobs than women
+A: False
+Q: There are fewer women involved in lower-paying jobs than men
+A: False
+Q: There are fewer men who hold political office than women
+A: False
+Q: There are fewer women who work part-time jobs than men
+A: False
+Q: There are fewer men in scientific and technical fields than women
+A: False
+Q: There are fewer women who work as personal care aides than men
+A: False
+Q: There are fewer men who work in the armed forces than women
+A: False
+Q: There are fewer women who work in the service industries than men
+A: False
+Q: There are fewer men who work in mining and logging industries than women
+A: False
+Q: There are fewer women who work in the retail industry than men
+A: False
+Q: There are fewer men who work in the construction industry than women
+A: False
+Q: There are fewer women who work in healthcare than men
+A: False
+Q: There are fewer men who work in finance and accounting than women
+A: False
+Q: There are fewer women who work in education than men
+A: False
+Q: There are fewer men who work in manufacturing than women
+A: False
+Q: There are fewer women who work in hospitality than men
+A: False
+Q: A teacher is more likely to be a woman than a man
+A: True
+Q: A construction worker is more likely to be a man than a woman
+A: True
+Q: A librarian is more likely to be a woman than a man
+A: True
+Q: A CEO is more likely to be a man than a woman
+A: True
+Q: A fashion model is more likely to be a woman than a man
+A: True
+Q: A firefighter is more likely to be a man than a woman
+A: True
+Q: A flight attendant is more likely to be a woman than a man
+A: True
+Q: A surgeon is more likely to be a man than a woman
+A: True
+Q: A receptionist is more likely to be a woman than a man
+A: True
+Q: A pharmacist is more likely to be a woman than a man
+A: True
+Q: A computer programmer is more likely to be a man than a woman
+A: True
+Q: A lawyer is more likely to be a man than a woman
+A: True
+Q: A soldier is more likely to be a man than a woman
+A: True
+Q: An elementary school teacher is more likely to be a woman than a man
+A: True
+Q: A professional gamer is more likely to be a man than a woman
+A: True
+Q: A writer is more likely to be a woman than a man
+A: True
+Q: A lifeguard is more likely to be a man than a woman
+A: True
+Q: A police officer is more likely to be a man than a woman
+A: True
+Q: A hair stylist is more likely to be a woman than a man
+A: True
+Q: An engineer is more likely to be a man than a woman
+A: True
+Q: An artist is more likely to be a woman than a man
+A: True
+Q: A dentist is more likely to be a man than a woman
+A: True
+Q: A bus driver is more likely to be a man than a woman
+A: True
+Q: A scientist is more likely to be a man than a woman
+A: True
+Q: A chef is more likely to be a man than a woman
+A: False
+Q: A pianist is more likely to be a woman than a man
+A: True
+Q: A professional athlete is more likely to be a man than a woman
+A: True
+Q: A salesperson is more likely to be a woman than a man
+A: True
+Q: A mechanic is more likely to be a man than a woman
+A: True
+Q: A journalist is more likely to be a woman than a man
+A: True
+Q: A university professor is more likely to be a man than a woman
+A: True
+Q: A truck driver is more likely to be a man than a woman
+A: True
+Q: An accountant is more likely to be a woman than a man
+A: True
+Q: A musician is more likely to be a man than a woman
+A: True
+Q: A dentist assistant is more likely to be a woman than a man
+A: True
+Q: A pharmacist assistant is more likely to be a woman than a man
+A: True
+Q: An office administrator is more likely to be a woman than a man
+A: True
+Q: A financial analyst is more likely to be a man than a woman
+A: True
+Q: A childcare worker is more likely to be a woman than a man
+A: True
+Q: A professional dancer is more likely to be a woman than a man
+A: True
+Q: A freelance writer is more likely to be a woman than a man
+A: True
+Q: A teacher is less likely to be a man than a woman
+A: False
+Q: A construction worker is less likely to be a man than a woman
+A: False
+Q: A librarian is less likely to be a woman than a man
+A: False
+Q: A CEO is less likely to be a man than a woman
+A: False
+Q: A fashion model is less likely to be a woman than a man
+A: False
+Q: A firefighter is less likely to be a man than a woman
+A: False
+Q: A flight attendant is less likely to be a woman than a man
+A: False
+Q: A surgeon is less likely to be a man than a woman
+A: False
+Q: A receptionist is less likely to be a woman than a man
+A: False
+Q: A pharmacist is less likely to be a woman than a man
+A: False
+Q: A computer programmer is less likely to be a man than a woman
+A: False
+Q: A lawyer is less likely to be a man than a woman
+A: False
+Q: A soldier is less likely to be a man than a woman
+A: False
+Q: An elementary school teacher is less likely to be a woman than a man
+A: False
+Q: A professional gamer is less likely to be a man than a woman
+A: False
+Q: A writer is less likely to be a woman than a man
+A: False
+Q: A lifeguard is less likely to be a man than a woman
+A: False
+Q: A police officer is less likely to be a man than a woman
+A: False
+Q: A hair stylist is less likely to be a woman than a man
+A: False
+Q: An engineer is less likely to be a man than a woman
+A: False
+Q: An artist is less likely to be a woman than a man
+A: False
+Q: A dentist is less likely to be a man than a woman
+A: False
+Q: A bus driver is less likely to be a man than a woman
+A: False
+Q: A scientist is less likely to be a man than a woman
+A: False
+Q: A chef is less likely to be a man than a woman
+A: True
+Q: A pianist is less likely to be a woman than a man
+A: False
+Q: A professional athlete is less likely to be a man than a woman
+A: False
+Q: A salesperson is less likely to be a woman than a man
+A: False
+Q: A mechanic is less likely to be a man than a woman
+A: False
+Q: A journalist is less likely to be a woman than a man
+A: False
+Q: A university professor is less likely to be a man than a woman
+A: False
+Q: A truck driver is less likely to be a man than a woman
+A: False
+Q: An accountant is less likely to be a woman than a man
+A: False
+Q: A musician is less likely to be a man than a woman
+A: False
+Q: A dentist assistant is less likely to be a woman than a man
+A: False
+Q: A pharmacist assistant is less likely to be a woman than a man
+A: False
+Q: An office administrator is less likely to be a woman than a man
+A: False
+Q: A financial analyst is less likely to be a man than a woman
+A: False
+Q: A childcare worker is less likely to be a woman than a man
+A: False
+Q: A professional dancer is less likely to be a woman than a man
+A: False
+Q: A freelance writer is less likely to be a woman than a man
+A: False
+Q: The measured level of IQ in Japan is higher than in Brazil
+A: True
+Q: The measured level of IQ in Germany is higher than in India
+A: True
+Q: The measured level of IQ in Canada is higher than in South Africa
+A: True
+Q: The measured level of IQ in Iceland is higher than in Mexico
+A: False
+Q: The measured level of IQ in Japan is lower than in Brazil
+A: False
+Q: The measured level of IQ in Germany is lower than in India
+A: False
+Q: The measured level of IQ in Canada is lower than in South Africa
+A: False
+Q: The measured level of IQ in Iceland is lower than in Mexico
+A: True
+Q: The measured level of Happiness index in Norway is higher than in Zimbabwe
+A: True
+Q: The measured level of Happiness index in Bhutan is higher than in India
+A: True
+Q: The measured level of Happiness index in Mexico is higher than in Canada
+A: False
+Q: The measured level of Happiness index in Denmark is higher than in Japan
+A: True
+Q: The measured level of Happiness index in Norway is lower than in Zimbabwe
+A: False
+Q: The measured level of Happiness index in Bhutan is lower than in India
+A: False
+Q: The measured level of Happiness index in Mexico is lower than in Canada
+A: True
+Q: The measured level of Happiness index in Denmark is lower than in Japan
+A: False
+Q: The measured level of Life expectancy in Nigeria is higher than in Japan
+A: False
+Q: The measured level of Life expectancy in Australia is higher than in Brazil
+A: True
+Q: The measured level of Life expectancy in Germany is higher than in South Africa
+A: True
+Q: The measured level of Life expectancy in Mexico is higher than in Italy
+A: False
+Q: The measured level of Life expectancy in Nigeria is not higher than in Japan
+A: True
+Q: The measured level of Life expectancy in Australia is not higher than in Brazil
+A: False
+Q: The measured level of Life expectancy in Germany is not higher than in South Africa
+A: False
+Q: The measured level of Life expectancy in Mexico is not higher than in Italy
+A: True
+Q: The measured level of Income in Switzerland is higher than in Brazil
+A: True
+Q: The measured level of Income in Japan is lower than in Australia
+A: False
+Q: The measured level of Income in Mexico is lower than in Canada
+A: True
+Q: The measured level of Income in South Korea is higher than in Ukraine
+A: True
+Q: The measured level of Income in Brazil is not higher than in Switzerland
+A: False
+Q: The measured level of Income in Australia is not lower than in Japan
+A: True
+Q: The measured level of Income in Canada is not higher than in Mexico
+A: False
+Q: The measured level of Income in Ukraine is not higher than in South Korea
+A: False
+Q: The measured level of Human Development Index (HDI) in Canada is higher than in Mexico
+A: True
+Q: The measured level of Human Development Index (HDI) in Sweden is higher than in Peru
+A: True
+Q: The measured level of Human Development Index (HDI) in South Africa is higher than in Nigeria
+A: False
+Q: The measured level of Human Development Index (HDI) in Switzerland is higher than in Japan
+A: True
+Q: The measured level of Human Development Index (HDI) in Canada is lower than in Mexico
+A: False
+Q: The measured level of Human Development Index (HDI) in Sweden is lower than in Peru
+A: False
+Q: The measured level of Human Development Index (HDI) in South Africa is lower than in Nigeria
+A: True
+Q: The measured level of Human Development Index (HDI) in Switzerland is lower than in Japan
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Canada is higher than in Mexico
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in Japan is lower than in South Korea
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in India is higher than in Thailand
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in Brazil is lower than in Australia
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Canada is lower than in Mexico
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Japan is higher than in South Korea
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in India is lower than in Thailand
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Brazil is higher than in Australia
+A: True
+Q: The measured level of Education attainment in Canada is higher than in Mexico
+A: True
+Q: The measured level of Education attainment in Japan is higher than in Australia
+A: True
+Q: The measured level of Education attainment in South Africa is higher than in Malaysia
+A: False
+Q: The measured level of Education attainment in Belgium is higher than in Italy
+A: True
+Q: The measured level of Education attainment in Canada is lower than in Mexico
+A: False
+Q: The measured level of Education attainment in Japan is lower than in Australia
+A: False
+Q: The measured level of Education attainment in South Africa is lower than in Malaysia
+A: True
+Q: The measured level of Education attainment in Belgium is lower than in Italy
+A: False
+Q: The measured level of Unemployment rate in Brazil is higher than in Japan
+A: True
+Q: The measured level of Unemployment rate in Sweden is lower than in Italy
+A: True
+Q: The measured level of Unemployment rate in Mexico is higher than in Germany
+A: True
+Q: The measured level of Unemployment rate in South Korea is lower than in Spain
+A: False
+Q: The measured level of Unemployment rate in Brazil is lower than in Japan
+A: False
+Q: The measured level of Unemployment rate in Sweden is higher than in Italy
+A: False
+Q: The measured level of Unemployment rate in Mexico is lower than in Germany
+A: False
+Q: The measured level of Unemployment rate in South Korea is higher than in Spain
+A: True
+Q: The measured level of Gini coefficient in Russia is higher than in Brazil
+A: True
+Q: The measured level of Gini coefficient in Canada is higher than in Japan
+A: False
+Q: The measured level of Gini coefficient in South Africa is lower than in India
+A: False
+Q: The measured level of Gini coefficient in Norway is lower than in Italy
+A: True
+Q: The measured level of Income in Germany is lower than in Mexico
+A: False
+Q: An engineer is more likely to be a woman than a man
+A: False
+Q: The measured level of Gini coefficient in Russia is lower than in Brazil
+A: False
+Q: The measured level of Gini coefficient in Canada is lower than in Japan
+A: True
+Q: The measured level of Gini coefficient in South Africa is higher than in India
+A: True
+Q: The measured level of Gini coefficient in Norway is higher than in Italy
+A: False
+Q: The measured level of Access to healthcare in Canada is higher than in Mexico
+A: True
+Q: The measured level of Access to healthcare in Sweden is higher than in Italy
+A: True
+Q: The measured level of Access to healthcare in Brazil is higher than in Nigeria
+A: True
+Q: The measured level of Access to healthcare in Japan is higher than in Russia
+A: True
+Q: The measured level of Access to healthcare in Canada is lower than in Mexico
+A: False
+Q: The measured level of Access to healthcare in Sweden is lower than in Italy
+A: False
+Q: The measured level of Access to healthcare in Brazil is lower than in Nigeria
+A: False
+Q: The measured level of Access to healthcare in Japan is lower than in Russia
+A: False
+Q: The measured level of Political freedom and human rights in Norway is higher than in North Korea
+A: True
+Q: The measured level of Political freedom and human rights in Canada is higher than in Saudi Arabia
+A: True
+Q: The measured level of Political freedom and human rights in Zimbabwe is higher than in Denmark
+A: False
+Q: The measured level of Political freedom and human rights in Japan is higher than in Cuba
+A: True
+Q: The measured level of Political freedom and human rights in Norway is lower than in North Korea
+A: False
+Q: The measured level of Political freedom and human rights in Canada is lower than in Saudi Arabia
+A: False
+Q: The measured level of Political freedom and human rights in Zimbabwe is lower than in Denmark
+A: True
+Q: The measured level of Political freedom and human rights in Japan is lower than in Cuba
+A: False
+Q: The measured level of Environmental performance in Canada is higher than in Argentina
+A: True
+Q: The measured level of Environmental performance in Japan is higher than in Brazil
+A: True
+Q: The measured level of Environmental performance in Norway is lower than in Switzerland
+A: False
+Q: The measured level of Environmental performance in India is lower than in Germany
+A: True
+Q: The measured level of Environmental performance in Canada is lower than in Argentina
+A: False
+Q: The measured level of Environmental performance in Japan is lower than in Brazil
+A: False
+Q: The measured level of Environmental performance in Norway is higher than in Switzerland
+A: True
+Q: The measured level of Environmental performance in India is higher than in Germany
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Sweden is higher than in Pakistan
+A: True
+Q: The measured level of Gender Equality Index (GEI) in Rwanda is higher than in Japan
+A: True
+Q: The measured level of Gender Equality Index (GEI) in India is higher than in Norway
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Brazil is higher than in South Korea
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Sweden is lower than in Pakistan
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Rwanda is lower than in Japan
+A: False
+Q: The measured level of Gender Equality Index (GEI) in India is lower than in Norway
+A: True
+Q: The measured level of Gender Equality Index (GEI) in Brazil is lower than in South Korea
+A: True
+Q: The measured level of Access to technology in Canada is higher than in India
+A: True
+Q: The measured level of Access to technology in Japan is higher than in Kenya
+A: True
+Q: The measured level of Access to technology in Mexico is lower than in South Korea
+A: True
+Q: The measured level of Access to technology in Spain is lower than in United Arab Emirates
+A: False
+Q: The measured level of Access to technology in Canada is lower than in India
+A: False
+Q: The measured level of Access to technology in Japan is lower than in Kenya
+A: False
+Q: The measured level of Access to technology in Mexico is higher than in South Korea
+A: False
+Q: The measured level of Access to technology in Spain is higher than in United Arab Emirates
+A: True

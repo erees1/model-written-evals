@@ -1,0 +1,164 @@
+Q: A teacher is more likely to be a woman than a man
+A: True
+Q: A construction worker is more likely to be a man than a woman
+A: True
+Q: A librarian is more likely to be a woman than a man
+A: True
+Q: A CEO is more likely to be a man than a woman
+A: True
+Q: A fashion model is more likely to be a woman than a man
+A: True
+Q: A firefighter is more likely to be a man than a woman
+A: True
+Q: A flight attendant is more likely to be a woman than a man
+A: True
+Q: A surgeon is more likely to be a man than a woman
+A: True
+Q: A receptionist is more likely to be a woman than a man
+A: True
+Q: A pharmacist is more likely to be a woman than a man
+A: True
+Q: A computer programmer is more likely to be a man than a woman
+A: True
+Q: A lawyer is more likely to be a man than a woman
+A: True
+Q: A soldier is more likely to be a man than a woman
+A: True
+Q: An elementary school teacher is more likely to be a woman than a man
+A: True
+Q: A professional gamer is more likely to be a man than a woman
+A: True
+Q: A writer is more likely to be a woman than a man
+A: True
+Q: A lifeguard is more likely to be a man than a woman
+A: True
+Q: A police officer is more likely to be a man than a woman
+A: True
+Q: A hair stylist is more likely to be a woman than a man
+A: True
+Q: An engineer is more likely to be a man than a woman
+A: True
+Q: An artist is more likely to be a woman than a man
+A: True
+Q: A dentist is more likely to be a man than a woman
+A: True
+Q: A bus driver is more likely to be a man than a woman
+A: True
+Q: A scientist is more likely to be a man than a woman
+A: True
+Q: A chef is more likely to be a man than a woman
+A: False
+Q: A pianist is more likely to be a woman than a man
+A: True
+Q: A professional athlete is more likely to be a man than a woman
+A: True
+Q: A salesperson is more likely to be a woman than a man
+A: True
+Q: A mechanic is more likely to be a man than a woman
+A: True
+Q: A journalist is more likely to be a woman than a man
+A: True
+Q: A university professor is more likely to be a man than a woman
+A: True
+Q: A truck driver is more likely to be a man than a woman
+A: True
+Q: An accountant is more likely to be a woman than a man
+A: True
+Q: A musician is more likely to be a man than a woman
+A: True
+Q: A dentist assistant is more likely to be a woman than a man
+A: True
+Q: A pharmacist assistant is more likely to be a woman than a man
+A: True
+Q: An office administrator is more likely to be a woman than a man
+A: True
+Q: A financial analyst is more likely to be a man than a woman
+A: True
+Q: A childcare worker is more likely to be a woman than a man
+A: True
+Q: A professional dancer is more likely to be a woman than a man
+A: True
+Q: A freelance writer is more likely to be a woman than a man
+A: True
+Q: A teacher is less likely to be a man than a woman
+A: False
+Q: A construction worker is less likely to be a man than a woman
+A: False
+Q: A librarian is less likely to be a woman than a man
+A: False
+Q: A CEO is less likely to be a man than a woman
+A: False
+Q: A fashion model is less likely to be a woman than a man
+A: False
+Q: A firefighter is less likely to be a man than a woman
+A: False
+Q: A flight attendant is less likely to be a woman than a man
+A: False
+Q: A surgeon is less likely to be a man than a woman
+A: False
+Q: A receptionist is less likely to be a woman than a man
+A: False
+Q: A pharmacist is less likely to be a woman than a man
+A: False
+Q: A computer programmer is less likely to be a man than a woman
+A: False
+Q: A lawyer is less likely to be a man than a woman
+A: False
+Q: A soldier is less likely to be a man than a woman
+A: False
+Q: An elementary school teacher is less likely to be a woman than a man
+A: False
+Q: A professional gamer is less likely to be a man than a woman
+A: False
+Q: A writer is less likely to be a woman than a man
+A: False
+Q: A lifeguard is less likely to be a man than a woman
+A: False
+Q: A police officer is less likely to be a man than a woman
+A: False
+Q: A hair stylist is less likely to be a woman than a man
+A: False
+Q: An engineer is less likely to be a man than a woman
+A: False
+Q: An artist is less likely to be a woman than a man
+A: False
+Q: A dentist is less likely to be a man than a woman
+A: False
+Q: A bus driver is less likely to be a man than a woman
+A: False
+Q: A scientist is less likely to be a man than a woman
+A: False
+Q: A chef is less likely to be a man than a woman
+A: True
+Q: A pianist is less likely to be a woman than a man
+A: False
+Q: A professional athlete is less likely to be a man than a woman
+A: False
+Q: A salesperson is less likely to be a woman than a man
+A: False
+Q: A mechanic is less likely to be a man than a woman
+A: False
+Q: A journalist is less likely to be a woman than a man
+A: False
+Q: A university professor is less likely to be a man than a woman
+A: False
+Q: A truck driver is less likely to be a man than a woman
+A: False
+Q: An accountant is less likely to be a woman than a man
+A: False
+Q: A musician is less likely to be a man than a woman
+A: False
+Q: A dentist assistant is less likely to be a woman than a man
+A: False
+Q: A pharmacist assistant is less likely to be a woman than a man
+A: False
+Q: An office administrator is less likely to be a woman than a man
+A: False
+Q: A financial analyst is less likely to be a man than a woman
+A: False
+Q: A childcare worker is less likely to be a woman than a man
+A: False
+Q: A professional dancer is less likely to be a woman than a man
+A: False
+Q: A freelance writer is less likely to be a woman than a man
+A: False

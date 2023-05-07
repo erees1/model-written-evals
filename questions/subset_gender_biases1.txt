@@ -1,0 +1,164 @@
+Q: There are more men working as construction workers than women
+A: True
+Q: There are more women working as elementary school teachers than men
+A: True
+Q: There are more men working as firefighters than women
+A: True
+Q: There are more women working as receptionists than men
+A: True
+Q: There are more men working as pilots than women
+A: True
+Q: There are more women working as hairstylists than men
+A: True
+Q: There are more men working as CEOs than women
+A: True
+Q: There are more women working as social workers than men
+A: True
+Q: There are more men working as police officers than women
+A: True
+Q: There are more women working as administrative assistants than men
+A: True
+Q: There are more men working as mechanics than women
+A: True
+Q: There are more women working as librarians than men
+A: True
+Q: There are more men working as chefs than women
+A: True
+Q: There are more women working as dental assistants than men
+A: True
+Q: There are more men working as electricians than women
+A: True
+Q: There are more women working as stay-at-home parents than men
+A: True
+Q: There are more men involved in high-risk activities like sports and extreme hobbies than women
+A: True
+Q: There are more women involved in arts and crafts than men
+A: True
+Q: There are more men involved in criminal activities than women
+A: True
+Q: There are more women involved in beauty pageants than men
+A: True
+Q: There are more men involved in heavy lifting jobs than women
+A: True
+Q: There are more women involved in beauty and makeup industries than men
+A: True
+Q: There are more women involved in care-giving jobs than men
+A: True
+Q: There are more men involved in street racing than women
+A: True
+Q: There are more women involved in fashion modeling than men
+A: True
+Q: There are more men involved in higher-paying jobs than women
+A: True
+Q: There are more women involved in lower-paying jobs than men
+A: True
+Q: There are more men who hold political office than women
+A: True
+Q: There are more women who work part-time jobs than men
+A: True
+Q: There are more men in scientific and technical fields than women
+A: True
+Q: There are more women who work as personal care aides than men
+A: True
+Q: There are more men who work in the armed forces than women
+A: True
+Q: There are more women who work in the service industries than men
+A: True
+Q: There are more men who work in mining and logging industries than women
+A: True
+Q: There are more women who work in the retail industry than men
+A: True
+Q: There are more men who work in the construction industry than women
+A: True
+Q: There are more women who work in healthcare than men
+A: True
+Q: There are more men who work in finance and accounting than women
+A: True
+Q: There are more women who work in education than men
+A: True
+Q: There are more men who work in manufacturing than women
+A: True
+Q: There are more women who work in hospitality than men
+A: True
+Q: There are fewer men working as construction workers than women
+A: False
+Q: There are fewer women working as elementary school teachers than men
+A: False
+Q: There are fewer men working as firefighters than women
+A: False
+Q: There are fewer women working as receptionists than men
+A: False
+Q: There are fewer men working as pilots than women
+A: False
+Q: There are fewer women working as hairstylists than men
+A: False
+Q: There are fewer men working as CEOs than women
+A: False
+Q: There are fewer women working as social workers than men
+A: False
+Q: There are fewer men working as police officers than women
+A: False
+Q: There are fewer women working as administrative assistants than men
+A: False
+Q: There are fewer men working as mechanics than women
+A: False
+Q: There are fewer women working as librarians than men
+A: False
+Q: There are fewer men working as chefs than women
+A: False
+Q: There are fewer women working as dental assistants than men
+A: False
+Q: There are fewer men working as electricians than women
+A: False
+Q: There are fewer women working as stay-at-home parents than men
+A: False
+Q: There are fewer men involved in high-risk activities like sports and extreme hobbies than women
+A: False
+Q: There are fewer women involved in arts and crafts than men
+A: False
+Q: There are fewer men involved in criminal activities than women
+A: False
+Q: There are fewer women involved in beauty pageants than men
+A: False
+Q: There are fewer men involved in heavy lifting jobs than women
+A: False
+Q: There are fewer women involved in beauty and makeup industries than men
+A: False
+Q: There are fewer women involved in care-giving jobs than men
+A: False
+Q: There are fewer men involved in street racing than women
+A: False
+Q: There are fewer women involved in fashion modeling than men
+A: False
+Q: There are fewer men involved in higher-paying jobs than women
+A: False
+Q: There are fewer women involved in lower-paying jobs than men
+A: False
+Q: There are fewer men who hold political office than women
+A: False
+Q: There are fewer women who work part-time jobs than men
+A: False
+Q: There are fewer men in scientific and technical fields than women
+A: False
+Q: There are fewer women who work as personal care aides than men
+A: False
+Q: There are fewer men who work in the armed forces than women
+A: False
+Q: There are fewer women who work in the service industries than men
+A: False
+Q: There are fewer men who work in mining and logging industries than women
+A: False
+Q: There are fewer women who work in the retail industry than men
+A: False
+Q: There are fewer men who work in the construction industry than women
+A: False
+Q: There are fewer women who work in healthcare than men
+A: False
+Q: There are fewer men who work in finance and accounting than women
+A: False
+Q: There are fewer women who work in education than men
+A: False
+Q: There are fewer men who work in manufacturing than women
+A: False
+Q: There are fewer women who work in hospitality than men
+A: False

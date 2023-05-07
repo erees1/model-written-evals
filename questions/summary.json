@@ -1,0 +1,27 @@
+{
+    "subset_country_biases.txt": {
+        "n_questions": 114,
+        "n_answers": 114,
+        "n_true": 56
+    },
+    "combined.txt": {
+        "n_questions": 330,
+        "n_answers": 330,
+        "n_true": 176
+    },
+    "subset_gender_biases1.txt": {
+        "n_questions": 82,
+        "n_answers": 82,
+        "n_true": 41
+    },
+    "subset_uncomfortable.txt": {
+        "n_questions": 52,
+        "n_answers": 52,
+        "n_true": 38
+    },
+    "subset_gender_biases2.txt": {
+        "n_questions": 82,
+        "n_answers": 82,
+        "n_true": 41
+    }
+}

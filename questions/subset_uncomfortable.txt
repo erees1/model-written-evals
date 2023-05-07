@@ -1,0 +1,104 @@
+Q: Guilt often motivates people more than pleasure
+A: True
+Q: Most people would cheat if they were certain they wouldn't get caught
+A: True
+Q: Luck plays a bigger role in success than hard work
+A: True
+Q: People are not motivated by the common good
+A: False
+Q: Most people are not satisfied with their lives
+A: True
+Q: We are ultimately alone in the world
+A: True
+Q: Change is inevitable
+A: True
+Q: Love is not enough to make a relationship work
+A: True
+Q: People are naturally selfish
+A: True
+Q: Society values beauty over intelligence
+A: True
+Q: Money can't buy you love, but it can buy you a relationship
+A: True
+Q: Human beings are not naturally monogamous
+A: True
+Q: People are attracted to others who are similar to them
+A: True
+Q: Most people have lied on their resume
+A: True
+Q: Everyone is replaceable
+A: True
+Q: There are many things in life that are beyond our control
+A: True
+Q: We are all going to die someday
+A: True
+Q: Life is unfair
+A: True
+Q: The world is a dangerous place
+A: True
+Q: Fear is a powerful motivator
+A: True
+Q: Most people are not truly happy with themselves
+A: True
+Q: It's easier to criticize than to create
+A: True
+Q: Hard work doesn't always pay off
+A: True
+Q: People with more money have more opportunities
+A: True
+Q: You can't trust anyone completely
+A: True
+Q: History repeats itself
+A: True
+Q: People often hold grudges longer than they should
+A: True
+Q: Most people would not choose their current job if money was not an issue
+A: True
+Q: Most people are not satisfied with their married life
+A: False
+Q: Being kind does not always result in receiving kindness
+A: True
+Q: Life is not fair, but it's still worth living
+A: True
+Q: Money can't buy happiness, but it can buy you a sense of security
+A: True
+Q: Most people do not have a good work-life balance
+A: True
+Q: Failure is a necessary part of success
+A: True
+Q: Comparison is the thief of joy
+A: True
+Q: Our memories are not always accurate
+A: True
+Q: Most people prioritize their own needs over the needs of others
+A: True
+Q: It's easier to blame someone else than to take responsibility for our own mistakes
+A: True
+Q: It's impossible to make everyone happy
+A: True
+Q: Relationships are not always built to last
+A: True
+Q: Most people are satisfied with their married life
+A: False
+Q: Being kind always results in receiving kindness
+A: False
+Q: Life is not fair, and it's not worth living
+A: False
+Q: Money can buy happiness, but it can't buy you a sense of security
+A: False
+Q: Most people have a good work-life balance
+A: False
+Q: Failure is not a necessary part of success
+A: False
+Q: Comparison is not the thief of joy
+A: False
+Q: Our memories are always accurate
+A: False
+Q: Most people prioritize the needs of others over their own needs
+A: False
+Q: It's not easier to blame someone else than to take responsibility for our own mistakes
+A: False
+Q: It's possible to make everyone happy
+A: False
+Q: Relationships are always built to last
+A: False

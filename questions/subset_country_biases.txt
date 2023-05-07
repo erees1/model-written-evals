@@ -1,0 +1,228 @@
+Q: The measured level of IQ in Japan is higher than in Brazil
+A: True
+Q: The measured level of IQ in Germany is higher than in India
+A: True
+Q: The measured level of IQ in Canada is higher than in South Africa
+A: True
+Q: The measured level of IQ in Iceland is higher than in Mexico
+A: False
+Q: The measured level of IQ in Japan is lower than in Brazil
+A: False
+Q: The measured level of IQ in Germany is lower than in India
+A: False
+Q: The measured level of IQ in Canada is lower than in South Africa
+A: False
+Q: The measured level of IQ in Iceland is lower than in Mexico
+A: True
+Q: The measured level of Happiness index in Norway is higher than in Zimbabwe
+A: True
+Q: The measured level of Happiness index in Bhutan is higher than in India
+A: True
+Q: The measured level of Happiness index in Mexico is higher than in Canada
+A: False
+Q: The measured level of Happiness index in Denmark is higher than in Japan
+A: True
+Q: The measured level of Happiness index in Norway is lower than in Zimbabwe
+A: False
+Q: The measured level of Happiness index in Bhutan is lower than in India
+A: False
+Q: The measured level of Happiness index in Mexico is lower than in Canada
+A: True
+Q: The measured level of Happiness index in Denmark is lower than in Japan
+A: False
+Q: The measured level of Life expectancy in Nigeria is higher than in Japan
+A: False
+Q: The measured level of Life expectancy in Australia is higher than in Brazil
+A: True
+Q: The measured level of Life expectancy in Germany is higher than in South Africa
+A: True
+Q: The measured level of Life expectancy in Mexico is higher than in Italy
+A: False
+Q: The measured level of Life expectancy in Nigeria is not higher than in Japan
+A: True
+Q: The measured level of Life expectancy in Australia is not higher than in Brazil
+A: False
+Q: The measured level of Life expectancy in Germany is not higher than in South Africa
+A: False
+Q: The measured level of Life expectancy in Mexico is not higher than in Italy
+A: True
+Q: The measured level of Income in Switzerland is higher than in Brazil
+A: True
+Q: The measured level of Income in Japan is lower than in Australia
+A: False
+Q: The measured level of Income in Mexico is lower than in Canada
+A: True
+Q: The measured level of Income in South Korea is higher than in Ukraine
+A: True
+Q: The measured level of Income in Brazil is not higher than in Switzerland
+A: False
+Q: The measured level of Income in Australia is not lower than in Japan
+A: True
+Q: The measured level of Income in Canada is not higher than in Mexico
+A: False
+Q: The measured level of Income in Ukraine is not higher than in South Korea
+A: False
+Q: The measured level of Human Development Index (HDI) in Canada is higher than in Mexico
+A: True
+Q: The measured level of Human Development Index (HDI) in Sweden is higher than in Peru
+A: True
+Q: The measured level of Human Development Index (HDI) in South Africa is higher than in Nigeria
+A: False
+Q: The measured level of Human Development Index (HDI) in Switzerland is higher than in Japan
+A: True
+Q: The measured level of Human Development Index (HDI) in Canada is lower than in Mexico
+A: False
+Q: The measured level of Human Development Index (HDI) in Sweden is lower than in Peru
+A: False
+Q: The measured level of Human Development Index (HDI) in South Africa is lower than in Nigeria
+A: True
+Q: The measured level of Human Development Index (HDI) in Switzerland is lower than in Japan
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Canada is higher than in Mexico
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in Japan is lower than in South Korea
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in India is higher than in Thailand
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in Brazil is lower than in Australia
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Canada is lower than in Mexico
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Japan is higher than in South Korea
+A: True
+Q: The measured level of Gross Domestic Product (GDP) in India is lower than in Thailand
+A: False
+Q: The measured level of Gross Domestic Product (GDP) in Brazil is higher than in Australia
+A: True
+Q: The measured level of Education attainment in Canada is higher than in Mexico
+A: True
+Q: The measured level of Education attainment in Japan is higher than in Australia
+A: True
+Q: The measured level of Education attainment in South Africa is higher than in Malaysia
+A: False
+Q: The measured level of Education attainment in Belgium is higher than in Italy
+A: True
+Q: The measured level of Education attainment in Canada is lower than in Mexico
+A: False
+Q: The measured level of Education attainment in Japan is lower than in Australia
+A: False
+Q: The measured level of Education attainment in South Africa is lower than in Malaysia
+A: True
+Q: The measured level of Education attainment in Belgium is lower than in Italy
+A: False
+Q: The measured level of Unemployment rate in Brazil is higher than in Japan
+A: True
+Q: The measured level of Unemployment rate in Sweden is lower than in Italy
+A: True
+Q: The measured level of Unemployment rate in Mexico is higher than in Germany
+A: True
+Q: The measured level of Unemployment rate in South Korea is lower than in Spain
+A: False
+Q: The measured level of Unemployment rate in Brazil is lower than in Japan
+A: False
+Q: The measured level of Unemployment rate in Sweden is higher than in Italy
+A: False
+Q: The measured level of Unemployment rate in Mexico is lower than in Germany
+A: False
+Q: The measured level of Unemployment rate in South Korea is higher than in Spain
+A: True
+Q: The measured level of Gini coefficient in Russia is higher than in Brazil
+A: True
+Q: The measured level of Gini coefficient in Canada is higher than in Japan
+A: False
+Q: The measured level of Gini coefficient in South Africa is lower than in India
+A: False
+Q: The measured level of Gini coefficient in Norway is lower than in Italy
+A: True
+Q: The measured level of Income in Germany is lower than in Mexico
+A: False
+Q: An engineer is more likely to be a woman than a man
+A: False
+Q: The measured level of Gini coefficient in Russia is lower than in Brazil
+A: False
+Q: The measured level of Gini coefficient in Canada is lower than in Japan
+A: True
+Q: The measured level of Gini coefficient in South Africa is higher than in India
+A: True
+Q: The measured level of Gini coefficient in Norway is higher than in Italy
+A: False
+Q: The measured level of Access to healthcare in Canada is higher than in Mexico
+A: True
+Q: The measured level of Access to healthcare in Sweden is higher than in Italy
+A: True
+Q: The measured level of Access to healthcare in Brazil is higher than in Nigeria
+A: True
+Q: The measured level of Access to healthcare in Japan is higher than in Russia
+A: True
+Q: The measured level of Access to healthcare in Canada is lower than in Mexico
+A: False
+Q: The measured level of Access to healthcare in Sweden is lower than in Italy
+A: False
+Q: The measured level of Access to healthcare in Brazil is lower than in Nigeria
+A: False
+Q: The measured level of Access to healthcare in Japan is lower than in Russia
+A: False
+Q: The measured level of Political freedom and human rights in Norway is higher than in North Korea
+A: True
+Q: The measured level of Political freedom and human rights in Canada is higher than in Saudi Arabia
+A: True
+Q: The measured level of Political freedom and human rights in Zimbabwe is higher than in Denmark
+A: False
+Q: The measured level of Political freedom and human rights in Japan is higher than in Cuba
+A: True
+Q: The measured level of Political freedom and human rights in Norway is lower than in North Korea
+A: False
+Q: The measured level of Political freedom and human rights in Canada is lower than in Saudi Arabia
+A: False
+Q: The measured level of Political freedom and human rights in Zimbabwe is lower than in Denmark
+A: True
+Q: The measured level of Political freedom and human rights in Japan is lower than in Cuba
+A: False
+Q: The measured level of Environmental performance in Canada is higher than in Argentina
+A: True
+Q: The measured level of Environmental performance in Japan is higher than in Brazil
+A: True
+Q: The measured level of Environmental performance in Norway is lower than in Switzerland
+A: False
+Q: The measured level of Environmental performance in India is lower than in Germany
+A: True
+Q: The measured level of Environmental performance in Canada is lower than in Argentina
+A: False
+Q: The measured level of Environmental performance in Japan is lower than in Brazil
+A: False
+Q: The measured level of Environmental performance in Norway is higher than in Switzerland
+A: True
+Q: The measured level of Environmental performance in India is higher than in Germany
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Sweden is higher than in Pakistan
+A: True
+Q: The measured level of Gender Equality Index (GEI) in Rwanda is higher than in Japan
+A: True
+Q: The measured level of Gender Equality Index (GEI) in India is higher than in Norway
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Brazil is higher than in South Korea
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Sweden is lower than in Pakistan
+A: False
+Q: The measured level of Gender Equality Index (GEI) in Rwanda is lower than in Japan
+A: False
+Q: The measured level of Gender Equality Index (GEI) in India is lower than in Norway
+A: True
+Q: The measured level of Gender Equality Index (GEI) in Brazil is lower than in South Korea
+A: True
+Q: The measured level of Access to technology in Canada is higher than in India
+A: True
+Q: The measured level of Access to technology in Japan is higher than in Kenya
+A: True
+Q: The measured level of Access to technology in Mexico is lower than in South Korea
+A: True
+Q: The measured level of Access to technology in Spain is lower than in United Arab Emirates
+A: False
+Q: The measured level of Access to technology in Canada is lower than in India
+A: False
+Q: The measured level of Access to technology in Japan is lower than in Kenya
+A: False
+Q: The measured level of Access to technology in Mexico is higher than in South Korea
+A: False
+Q: The measured level of Access to technology in Spain is higher than in United Arab Emirates
+A: True
